@@ -1,8 +1,7 @@
 # Multi Digit Detector for KTP ID Verification
 
 ## Project Overview
-Numbers are everywhere around us. Develop OCR Model for KTP ID Verification
-Now we are able to extend that to reading multiple digits as shown below. The underlying neural network does both digit localisation and digit detection. This can be quite useful in a variety of ML applications like reading labels in the store, license plates, advertisements etc.
+Numbers are everywhere around us. 0Now we are able to extend that to reading multiple digits as shown below. The underlying neural network does both digit localisation and digit detection. This can be quite useful in a variety of ML applications like reading labels in the store, license plates, advertisements, and of course in ID Card like KTP.
 
 ![image](https://user-images.githubusercontent.com/25638454/233240154-56509ac2-c086-440d-b882-0c4bd798a3f0.png)
 
